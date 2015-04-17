@@ -20,7 +20,7 @@ Like a backpack with too many straps, a blog can sometimes be frustrating when i
 
 <div class="post-image post-image--split">
     <a href="#">
-        <img src="http://placehold.it/435x500" />
+        <img src="http://mined-gatech.github.io/images/matin-logo.png" />
     </a>
     <a href="#">
         <img src="http://placehold.it/435x500" />
