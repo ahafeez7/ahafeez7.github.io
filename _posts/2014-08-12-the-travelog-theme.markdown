@@ -8,7 +8,7 @@ tags: atlanta usa
 ---
 
 I am Abdul Hafeez, a Postdoc Fellow working with Dr. Kalidindi in Woodruff School of Mechanical Engineering at Georgia Tech. I am part of MINED Research group and my research focus is Materials Informatics. Currently, I am a member of MATIN -- a collaborative platform for innovative materials community. The goal is to accelerate the materials research by fostering collaborations between scientists in different fields of science, including material science, data science, chemical engineers, and manufacturing experts. MATIN is a git-hub based platform that enables online collaboration by sharing data, code and online blogging on top of the shared data/code among scientists, through the use of an umbrella of collaboration tools including but not limited to the dropbox and fliker (data storage), linkedin (for social networking), sharedLaTeX (collaborative editing) etc. Our research include online tools that we can integrate into our github-based platform to ease the collaboration and build a materials research community. 
-Furthermore, my research interests include parallel and distributed computing and machine learning and I am excited about the opportunities to apply these techniques in materials research and thus, to furthre thrive reserch in the emerging area of Materials Informatics.
+Furthermore, my research interests include parallel and distributed computing and machine learning and I am excited about the opportunities to apply these techniques in materials research and thus, to furthur thrive reserch in the emerging area of Materials Informatics.
 
 <div class="post-image post-image--split">
     <a href="#">
