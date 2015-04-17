@@ -13,8 +13,10 @@ In addition to being devilishly handsome, it is responsive down to mobile and ha
 
 Like a backpack with too many straps, a blog can sometimes be frustrating when it has too many bells and whistles. It is with that philosophy that I have put together this theme so that you might drown in its whitespace.
 
-<div class="post-image">
-    <img src="http://mined-gatech.github.io/images/MINEDlogo.png" />
+<div class="post-image post-image--split">
+    <a href="#">
+        <img src="http://mined-gatech.github.io/images/MINEDlogo.png" />
+    </a>
     <p class="post-image-caption">Using a little bit of markup, you can add beautiful captions to your totally beautiful pictures. Amazing.</p>
 </div>
 
