@@ -19,7 +19,7 @@ Furthermore, my research interests include parallel and distributed computing an
 
 <div class="post-image post-image--split">
     <a href="#">
-        <img src="http://mined-gatech.github.io/images/matINlogo.png" />
+        <img src="http://mined-gatech.github.io/images/matINlogo.png" height="100" width="300"/>
     </a>
     <a href="#">
         <img src="http://placehold.it/435x500" />
