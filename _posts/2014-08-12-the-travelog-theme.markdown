@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MINED Research group"
-date:   2014-08-12 17:39:55
+date:   2015-04-17 
 categories: auckland, new-zealand
 location: Auckland, New Zealand
 tags: auckland new-zealand
