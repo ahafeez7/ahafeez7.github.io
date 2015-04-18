@@ -12,7 +12,7 @@ Furthermore, my research interests include parallel and distributed computing an
 
 <div class="post-image post-image--split">
     <a href="#">
-        <img src="http://mined-gatech.github.io/images/MINEDlogo.png" height="300" width="80"/>
+        <img src="http://mined-gatech.github.io/images/MINEDlogo.png"/>
     </a>
     <p class="post-image-caption">Using a little bit of markup, you can add beautiful captions to your totally beautiful pictures. Amazing.</p>
 </div>
