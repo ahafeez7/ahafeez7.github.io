@@ -33,7 +33,3 @@ Furthermore, my research interests include parallel and distributed computing an
     	</span>
     </p>
 </div>
-
-#The code can be found on Github [here](https://github.com/rowanoulton/travelog-theme).
-
-#Any questions, get at me on Twitter: [@rowanoulton](https://twitter.com/rowanoulton/)
