@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MINED Research group"
+title:  "Abdul Hafeez"
 date:   2015-04-17 
 categories: ME, Georgia Tech
 location: Atlanta, USA
