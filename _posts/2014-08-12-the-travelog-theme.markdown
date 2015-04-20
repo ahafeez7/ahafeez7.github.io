@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abdul Hafeez | Postdoc, Mechanical Engineering, Georgia Tech"
+title:  "Abdul Hafeez"
 date:   2015-04-17 
 categories: ME, Georgia Tech
 location: Atlanta, USA
