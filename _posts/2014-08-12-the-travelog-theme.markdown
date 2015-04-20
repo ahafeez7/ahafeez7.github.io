@@ -8,9 +8,10 @@ tags: atlanta usa
 ---
 <p>
 I am working as a Postdoc Fellow with Dr. Surya Kalidindi in Woodruff School of Mechanical Engineering at Georgia Tech. I am part of MINED Research group and my research focus is Materials Informatics. Currently, I am a member of MATIN -- a collaborative platform for innovative materials community. The goal is to accelerate the materials research by fostering collaborations between scientists in different fields of science, including material science, data science, chemical engineers, and manufacturing experts. MATIN is a git-hub based platform that enables online collaboration by sharing data, code and online blogging on top of the shared data/code among scientists through a gamut of collaborative tools such as dropbox and fliker (data storage), linkedin (for social networking), sharedLaTeX (collaborative editing). 
-Furthermore, my research interests include parallel and distributed computing and machine learning and I am excited about the </p>
+</p>
 <p>
-opportunities to apply these techniques in materials research and thus, to furthur thrive reserch in the emerging area of Materials Informatics.
+Furthermore, my resesarch interests include parallel computing and machine learning and I am excited about the
+opportunities to apply these techniques in materials research and thus, furthur thrive the research in the emerging area of Materials Informatics.
 </p>
 
 <div class="post-image post-image--split">
